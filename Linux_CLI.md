@@ -59,7 +59,7 @@ This document provides a list of essential Linux CLI commands, categorized for e
     ```  
   *(Tip: Use the `Tab` key to auto-complete directory names.)*
 
-  *(Tip: Press the Tab key twice quickly to see all possible directories or files you can navigate to from your current location.)*
+  *(Tip: Press the `Tab` key twice quickly to see all possible directories or files you can navigate to from your current location.)*
   
 ---
 
